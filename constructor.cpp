@@ -6,3 +6,8 @@ class mahasiswa{
     mahasiswa(); //Constructor
     };
     
+    mahasiswa::mahasiswa(){
+        cout << "Constructor Terpanggil" << endl; //Definisi Constructor
+        };
+        
+        
